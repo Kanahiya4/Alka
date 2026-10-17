@@ -1,0 +1,6 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.single-post .wp-block-post-featured-image {
+  display: none !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->
